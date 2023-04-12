@@ -493,7 +493,7 @@
     "gender": "male",
     "house": "",
     "dateOfBirth": null,
-    "yearOfBirth": null,
+    "yearOfBirth": 1960,
     "wizard": true,
     "ancestry": "pure-blood",
     "eyeColour": "brown",
