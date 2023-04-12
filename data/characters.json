@@ -492,7 +492,7 @@
     "species": "human",
     "gender": "male",
     "house": "",
-    "dateOfBirth": null,
+    "dateOfBirth": 1960,
     "yearOfBirth": null,
     "wizard": true,
     "ancestry": "pure-blood",
